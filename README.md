@@ -7,10 +7,15 @@
 <img src="./images/before.jpeg" width="300">
 <br>
 
+## Table of Contents
+
 - [AC Panel](./AC%20Panel/README.md)
+- [Control Panel](./Control%20Panel/README.md)
 - [Cost Breakdown](#cost-breakdown)
 
   Watch the video [here!](https://youtu.be/EQzhdFYszV0)
+
+---
 
 ## Cost Breakdown
 
