@@ -1,12 +1,15 @@
 # Conner's Astro City Restoration
 
+<center>
 <img src="./images/astrocity_cmp.jpg" width="500">
+</center>
 <img src="./images/before.jpeg" width="300">
 <br>
 
-* [Cost Breakdown](#cost-breakdown)
-* [AC Panel]()
-Watch the video [here!](https://youtu.be/EQzhdFYszV0)
+- [AC Panel](./AC%20Panel/README.md)
+- [Cost Breakdown](#cost-breakdown)
+
+  Watch the video [here!](https://youtu.be/EQzhdFYszV0)
 
 ## Cost Breakdown
 
