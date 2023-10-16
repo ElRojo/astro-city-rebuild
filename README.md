@@ -1,8 +1,9 @@
 # Conner's Astro City Restoration
 
-<center>
+<p align=center>
 <img src="./images/astrocity_cmp.jpg" width="500">
-</center>
+</p>
+
 <img src="./images/before.jpeg" width="300">
 <br>
 
