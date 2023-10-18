@@ -15,7 +15,6 @@
 - [Main Body](./Body/README.md)
 - [Power Supply](./Power%20Supply/README.md)
 - [Reassembly](./Reassembly/README.md)
-- [Cost Breakdown](#cost-breakdown)
 
   Watch the video [here!](https://youtu.be/EQzhdFYszV0)
 
