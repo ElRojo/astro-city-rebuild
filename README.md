@@ -2,8 +2,7 @@
 
 <p align=center>
 <img src="./images/astrocity_cmp.jpg" width="500">
-
-
+<br>
 <img src="./images/before.jpeg" width="300">
 <br>
 </p>
