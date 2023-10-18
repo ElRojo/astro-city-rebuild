@@ -22,7 +22,7 @@ Reassembly of the control panel included proper grounding to all metal pieces, a
 <details>
 <summary> Coin Box </summary>
 The coin box is held in with screws, but the coin counter is held in with rivets. They can be easily drilled out and replaced with new aluminum rivets if you have a rivet gun (about $30).
-
+<img src="../images/cashbox/cashboxbefore.jpeg" width="500">
 <img src="../images/cashbox/cashbox_after.jpeg" width="500">
 </details>
 
