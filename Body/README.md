@@ -21,6 +21,7 @@ The rest of the metal was stainless steel or similar. I gave that a run through 
 <img src="../images/body/parts in ultra Large.jpeg" width="500">
 
 Finally, some cheap urethane skateboard wheels were a great modification. Much softer on our wood floors and they glow under UV. Cool!
+
 <img src="../images/body/wheels Large.jpeg" width="500">
 
 
