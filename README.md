@@ -11,7 +11,9 @@
 
 - [AC Panel](./AC%20Panel/README.md)
 - [Cash Box](./Cash%20Box/README.md)
+- [Front Panel](./Front%20Panel/README.md)
 - [Main Body](./Body/README.md)
+- [Reassembly](./Reassembly/README.md)
 - [Cost Breakdown](#cost-breakdown)
 
   Watch the video [here!](https://youtu.be/EQzhdFYszV0)

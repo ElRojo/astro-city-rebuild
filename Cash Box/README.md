@@ -29,7 +29,13 @@ The coin box is held in with screws, but the coin counter is held in with rivets
 <details>
 <summary> Front Panel </summary>
 <a href="https://www.youtube.com/watch?v=KsF4YLi-4RM">This video</a> shows some of the sandblasting I did to strip down a lot of the paint. All of the metal doors were powder-coated.
+
 <img src="../images/pcparts.jpeg" width="500">
+
+
+I was able to source a brand new AD-81P coin mechanism for ¥100 coins.
+
+<img src="../images/cashbox/IMG_0587.jpeg" width="500">
 
 The front panel cable management was completely re-done and all metal pieces (if not painted) were re-zinc plated.
 
