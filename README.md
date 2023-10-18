@@ -2,10 +2,11 @@
 
 <p align=center>
 <img src="./images/astrocity_cmp.jpg" width="500">
-</p>
+
 
 <img src="./images/before.jpeg" width="300">
 <br>
+</p>
 
 ## Table of Contents
 
@@ -13,6 +14,7 @@
 - [Cash Box](./Cash%20Box/README.md)
 - [Front Panel](./Front%20Panel/README.md)
 - [Main Body](./Body/README.md)
+- [Power Supply](./Power%20Supply/README.md)
 - [Reassembly](./Reassembly/README.md)
 - [Cost Breakdown](#cost-breakdown)
 
@@ -21,10 +23,6 @@
 ---
 
 ## Cost Breakdown
-
-<details>
-<summary> Expand to see</summary>
-<br>
 
 | Item                                       | Cost  | URL                                                                                                     |
 | ------------------------------------------ | ----- | ------------------------------------------------------------------------------------------------------- |
@@ -55,5 +53,3 @@
 | 5380 Keys and Cores                        | $73   |                                                                                                         |
 | Powder Coat                                | $335  |                                                                                                         |
 | Paint                                      | $700  |                                                                                                         |
-
-</details>
